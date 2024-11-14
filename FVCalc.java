@@ -14,7 +14,7 @@ public static void main(String[] args) {
 
     double result = Math.pow(future_rate, year_int);
 
-    double future_val = curval * result;
+    double future_val = curval * result     ;
 
     System.out.println("After 2 years, $" + (int) curval + " saved at " + rate_double + "% will yield $" + (int) future_val);
 
