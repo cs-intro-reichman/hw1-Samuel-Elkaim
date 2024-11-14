@@ -11,7 +11,7 @@ public class Ascend {
         int middle = a + b + c - min - max;
 
         System.out.println(a + " " + b + " " + c);
-        System.out.println(min + " " + middle + " " + max);
+        System.out.println(min + " " + middle + " " + max)  ;
     }
 }
 
